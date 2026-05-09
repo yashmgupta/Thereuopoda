@@ -83,7 +83,7 @@ Clone the repository and open the notebook:
 
 ```bash
 git clone https://github.com/yashmgupta/Thereuopoda.git
-cd <your-repo>
+cd Thereuopoda
 jupyter notebook Thereuopoda_Mitogenome_Final_Analysis_v2.ipynb
 ```
 
