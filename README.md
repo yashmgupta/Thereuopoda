@@ -82,7 +82,7 @@ pip install biopython matplotlib pandas numpy
 Clone the repository and open the notebook:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/yashmgupta/Thereuopoda.git
 cd <your-repo>
 jupyter notebook Thereuopoda_Mitogenome_Final_Analysis_v2.ipynb
 ```
@@ -99,10 +99,8 @@ The annotated mitochondrial genome sequence (`sequence.gb`) is provided in this 
 
 ## Citation
 
-If you use this data or code, please cite the associated publication (DOI to be added upon acceptance).
-
 ---
 
 ## License
 
-Made available for academic and research use. Please contact the authors before reuse in commercial applications.
+Made available for academic and research use. MIT
