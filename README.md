@@ -2,16 +2,20 @@
 
 This repository provides the complete mitochondrial genome sequence and reproducible analysis code supporting the description of a new cave-dwelling *Thereuopoda* species (Chilopoda: Scutigeromorpha) from Nam Sai Cave, Phitsanulok Province, Thailand.
 
+**DOI:** [10.5281/zenodo.20361533](https://doi.org/10.5281/zenodo.20361533)
+
 ---
 
 ## Study Overview
 
-Cave-dwelling arthropods in mainland Southeast Asia represent some of the most taxonomically neglected invertebrates in one of the world's most threatened biodiversity hotspots. *Thereuopoda* (Chilopoda: Scutigeromorpha: Scutigeridae) is widely distributed across tropical Asia, yet no molecular data previously existed for any Thai population. We assembled the complete mitochondrial genome of a cave-collected specimen and integrated mitogenomic, phylogenetic, and morphological evidence to formally characterise a new species — the first scutigeromorph centipede described from Thailand using molecular data.
+Cave-dwelling arthropods in mainland Southeast Asia represent some of the most taxonomically neglected invertebrates in one of the world's most threatened biodiversity hotspots. *Thereuopoda* (Chilopoda: Scutigeromorpha) is a particularly interesting centipede lineage with few molecular resources available from the region.
+
+This study combines mitochondrial genome sequencing, comparative genomics, and phylogenetic analyses to characterize a newly discovered cave-dwelling lineage from Nam Sai Cave, Thailand.
 
 Key findings:
 - Complete mitogenome assembled from Illumina paired-end sequencing (14,900 bp; 37 genes)
 - Genome is strongly AT-biased (A+T = 66.72%) with conserved scutigeromorph gene order identical to *T. clunifera* and *Scutigera coleoptrata*
-- Maximum Likelihood and Bayesian Inference phylogenies (COI + concatenated whole-mitogenome PCGs) consistently place the Thai lineage as sister to *T. chinensis* (ML bootstrap ≥ 97%; BI posterior probability ≥ 0.994)
+- Maximum Likelihood and Bayesian Inference phylogenies (COI + concatenated whole-mitogenome PCGs) consistently place the Thai lineage as sister to *T. chinensis* (ML bootstrap ≥ 97%; BI posterior probability = 1.0)
 - Combined molecular and morphological evidence supports recognition as a new species of *Thereuopoda*
 - Extends documented cryptic diversity in Thereuoneminae beyond China into the Indochinese Peninsula
 - Provides the first molecular reference for any Thai scutigeromorph, establishing a baseline for barcoding and biodiversity monitoring
@@ -93,11 +97,15 @@ The notebook reads `sequence.gb` from the same directory. No other external file
 
 ## Data Availability
 
-The annotated mitochondrial genome sequence (`sequence.gb`) is provided in this repository and can be cited directly for data availability statements. This repository serves as the primary data and methods reference for the associated publication.
+The annotated mitochondrial genome sequence (`sequence.gb`) is provided in this repository and can be cited directly for data availability statements. This repository serves as the primary data and analysis resource for the study.
 
 ---
 
 ## Citation
+
+If you use this repository or data, please cite the Zenodo record:
+
+> DOI: [10.5281/zenodo.20361533](https://doi.org/10.5281/zenodo.20361533)
 
 ---
 
