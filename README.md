@@ -2,7 +2,7 @@
 
 This repository provides the complete mitochondrial genome sequence and reproducible analysis code supporting the study of a divergent cave-dwelling *Thereuopoda* lineage from Nam Sai Cave, Phitsanulok Province, Thailand.
 
-**Taxonomic status:** The Thai lineage is treated here as a provisional, divergent lineage rather than a formally established new species. Its species status remains pending further integrative taxonomic work. Any earlier use of “*Thereuopoda* sp. nov.” in repository materials was not intended to establish a formal species name and has been corrected to match the manuscript’s conclusions.
+**Taxonomic status:** The Thai lineage is treated here as a provisional, divergent lineage rather than a formally established new species. Its species status remains pending further integrative taxonomic work. 
 
 **DOI:** [10.5281/zenodo.20361533](https://doi.org/10.5281/zenodo.20361533)
 
