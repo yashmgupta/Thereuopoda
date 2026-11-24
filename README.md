@@ -1,6 +1,8 @@
-# Cave biodiversity and cryptic diversity in a Southeast Asian centipede (*Thereuopoda* sp.): integrative mitogenomic and phylogenetic evidence for a new species from Thailand
+# Integrative Evidence for a Divergent Thai *Thereuopoda* (Chilopoda: Scutigeromorpha) Lineage, With Implications for Cryptic Diversity in Southeast Asia
 
-This repository provides the complete mitochondrial genome sequence and reproducible analysis code supporting the description of a new cave-dwelling *Thereuopoda* species (Chilopoda: Scutigeromorpha) from Nam Sai Cave, Phitsanulok Province, Thailand.
+This repository provides the complete mitochondrial genome sequence and reproducible analysis code supporting the study of a divergent cave-dwelling *Thereuopoda* lineage from Nam Sai Cave, Phitsanulok Province, Thailand.
+
+**Taxonomic status:** The Thai lineage is treated here as a provisional, divergent lineage rather than a formally established new species. Its species status remains pending further integrative taxonomic work. Any earlier use of “*Thereuopoda* sp. nov.” in repository materials was not intended to establish a formal species name and has been corrected to match the manuscript’s conclusions.
 
 **DOI:** [10.5281/zenodo.20361533](https://doi.org/10.5281/zenodo.20361533)
 
@@ -10,13 +12,13 @@ This repository provides the complete mitochondrial genome sequence and reproduc
 
 Cave-dwelling arthropods in mainland Southeast Asia represent some of the most taxonomically neglected invertebrates in one of the world's most threatened biodiversity hotspots. *Thereuopoda* (Chilopoda: Scutigeromorpha) is a particularly interesting centipede lineage with few molecular resources available from the region.
 
-This study combines mitochondrial genome sequencing, comparative genomics, and phylogenetic analyses to characterize a newly discovered cave-dwelling lineage from Nam Sai Cave, Thailand.
+This study combines mitochondrial genome sequencing, comparative genomics, and phylogenetic analyses to characterize a divergent cave-dwelling lineage from Nam Sai Cave, Thailand. The combined evidence supports its distinctiveness while leaving formal species status provisional pending further integrative work.
 
 Key findings:
 - Complete mitogenome assembled from Illumina paired-end sequencing (14,900 bp; 37 genes)
 - Genome is strongly AT-biased (A+T = 66.72%) with conserved scutigeromorph gene order identical to *T. clunifera* and *Scutigera coleoptrata*
 - Maximum Likelihood and Bayesian Inference phylogenies (COI + concatenated whole-mitogenome PCGs) consistently place the Thai lineage as sister to *T. chinensis* (ML bootstrap ≥ 97%; BI posterior probability = 1.0)
-- Combined molecular and morphological evidence supports recognition as a new species of *Thereuopoda*
+- Combined molecular and morphological evidence supports recognition of a divergent Thai lineage, but its species status remains provisional pending further integrative work
 - Extends documented cryptic diversity in Thereuoneminae beyond China into the Indochinese Peninsula
 - Provides the first molecular reference for any Thai scutigeromorph, establishing a baseline for barcoding and biodiversity monitoring
 
@@ -35,7 +37,7 @@ Key findings:
 
 | Feature | Value |
 |---|---|
-| Organism | *Thereuopoda* sp. nov. (Scutigeromorpha: Scutigeridae) |
+| Organism | *Thereuopoda* sp. (provisional Thai lineage) |
 | Collection locality | Nam Sai Cave, Phitsanulok Province, Thailand |
 | Genome size | 14,900 bp |
 | Topology | Circular |
